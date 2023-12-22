@@ -3,13 +3,11 @@
 
 One player takes the part of the three musketeers, the other of Cardinal Richelieu's men ("the enemy"). The musketeer player sets up their tokens in two opposite corners and in the center space; the enemy places tokens in all remaining board spaces:
 
-o	o	o	o	x
-o	o	o	o	o
-o	o	x	o	o
-o	o	o	o	o
-x	o	o	o	o
 
 The players take turns moving one piece; the musketeer player starts. The rules are as follows:
+
+https://en.wikipedia.org/wiki/File:Draughts_ll44.png![image](https://github.com/Rijul123/Board_Game/assets/90792782/534c9d1e-573d-4e1a-a80f-0e2a13675dde)
+
 
 The musketeer player can move a musketeer to any orthogonally (non-diagonal) adjacent space occupied by an enemy; the enemy piece is removed from the game.
 The enemy can move one enemy piece to any orthogonally adjacent empty space.
